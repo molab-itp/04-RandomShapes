@@ -1,4 +1,4 @@
-# [Week04-Demo](https://github.com/molab-itp/Week04-Demo.git)
+# [04-RandomShapes](https://github.com/molab-itp/04-RandomShapes.git)
 
 - Multipage example using UIGraphicsImageRenderer to compute image
 
