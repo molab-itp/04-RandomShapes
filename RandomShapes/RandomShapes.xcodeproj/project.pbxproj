@@ -3,41 +3,21 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AB06C10D2B794AAF001E0DDD /* Week04_RandomShapesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB06C10C2B794AAF001E0DDD /* Week04_RandomShapesApp.swift */; };
-		AB06C10F2B794AAF001E0DDD /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB06C10E2B794AAF001E0DDD /* MainView.swift */; };
-		AB06C1112B794AB0001E0DDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB06C1102B794AB0001E0DDD /* Assets.xcassets */; };
-		AB06C1142B794AB0001E0DDD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB06C1132B794AB0001E0DDD /* Preview Assets.xcassets */; };
-		AB06C11B2B794D85001E0DDD /* Shape1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB06C11A2B794D85001E0DDD /* Shape1.swift */; };
-		AB06C11D2B794DA2001E0DDD /* Shape2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB06C11C2B794DA2001E0DDD /* Shape2.swift */; };
-		AB06C11F2B794DCB001E0DDD /* Shape3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB06C11E2B794DCB001E0DDD /* Shape3.swift */; };
-		AB06C1212B794E7D001E0DDD /* renderGraphics.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB06C1202B794E7D001E0DDD /* renderGraphics.swift */; };
-		AB06C1232B7974E2001E0DDD /* Graphics.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB06C1222B7974E2001E0DDD /* Graphics.swift */; };
-		AB06C1252B7979D0001E0DDD /* Shape4.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB06C1242B7979D0001E0DDD /* Shape4.swift */; };
-		AB451B692D5AC57300E2AC64 /* Shape2_Canvas.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB451B682D5AC57300E2AC64 /* Shape2_Canvas.swift */; };
 		AB7C10432CA69D3D00BCC7DB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AB7C10422CA69D3D00BCC7DB /* README.md */; };
-		AB7C10452CA6A01600BCC7DB /* Shape5.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB7C10442CA6A01600BCC7DB /* Shape5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AB06C1092B794AAF001E0DDD /* Week04-RandomShapes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Week04-RandomShapes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		AB06C10C2B794AAF001E0DDD /* Week04_RandomShapesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Week04_RandomShapesApp.swift; sourceTree = "<group>"; };
-		AB06C10E2B794AAF001E0DDD /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
-		AB06C1102B794AB0001E0DDD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		AB06C1132B794AB0001E0DDD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		AB06C11A2B794D85001E0DDD /* Shape1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shape1.swift; sourceTree = "<group>"; };
-		AB06C11C2B794DA2001E0DDD /* Shape2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shape2.swift; sourceTree = "<group>"; };
-		AB06C11E2B794DCB001E0DDD /* Shape3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shape3.swift; sourceTree = "<group>"; };
-		AB06C1202B794E7D001E0DDD /* renderGraphics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = renderGraphics.swift; sourceTree = "<group>"; };
-		AB06C1222B7974E2001E0DDD /* Graphics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphics.swift; sourceTree = "<group>"; };
-		AB06C1242B7979D0001E0DDD /* Shape4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shape4.swift; sourceTree = "<group>"; };
-		AB451B682D5AC57300E2AC64 /* Shape2_Canvas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shape2_Canvas.swift; sourceTree = "<group>"; };
+		AB06C1092B794AAF001E0DDD /* RandomShapes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RandomShapes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB7C10422CA69D3D00BCC7DB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		AB7C10442CA6A01600BCC7DB /* Shape5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shape5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		AB68546E305A356000CEA712 /* RandomShapes */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = RandomShapes; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		AB06C1062B794AAF001E0DDD /* Frameworks */ = {
@@ -54,7 +34,7 @@
 			isa = PBXGroup;
 			children = (
 				AB7C10422CA69D3D00BCC7DB /* README.md */,
-				AB06C10B2B794AAF001E0DDD /* Week04-RandomShapes */,
+				AB68546E305A356000CEA712 /* RandomShapes */,
 				AB06C10A2B794AAF001E0DDD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -62,44 +42,17 @@
 		AB06C10A2B794AAF001E0DDD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AB06C1092B794AAF001E0DDD /* Week04-RandomShapes.app */,
+				AB06C1092B794AAF001E0DDD /* RandomShapes.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		AB06C10B2B794AAF001E0DDD /* Week04-RandomShapes */ = {
-			isa = PBXGroup;
-			children = (
-				AB06C10C2B794AAF001E0DDD /* Week04_RandomShapesApp.swift */,
-				AB06C10E2B794AAF001E0DDD /* MainView.swift */,
-				AB06C11A2B794D85001E0DDD /* Shape1.swift */,
-				AB06C11C2B794DA2001E0DDD /* Shape2.swift */,
-				AB451B682D5AC57300E2AC64 /* Shape2_Canvas.swift */,
-				AB06C11E2B794DCB001E0DDD /* Shape3.swift */,
-				AB06C1242B7979D0001E0DDD /* Shape4.swift */,
-				AB7C10442CA6A01600BCC7DB /* Shape5.swift */,
-				AB06C1222B7974E2001E0DDD /* Graphics.swift */,
-				AB06C1202B794E7D001E0DDD /* renderGraphics.swift */,
-				AB06C1102B794AB0001E0DDD /* Assets.xcassets */,
-				AB06C1122B794AB0001E0DDD /* Preview Content */,
-			);
-			path = "Week04-RandomShapes";
-			sourceTree = "<group>";
-		};
-		AB06C1122B794AB0001E0DDD /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				AB06C1132B794AB0001E0DDD /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		AB06C1082B794AAF001E0DDD /* Week04-RandomShapes */ = {
+		AB06C1082B794AAF001E0DDD /* RandomShapes */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AB06C1172B794AB0001E0DDD /* Build configuration list for PBXNativeTarget "Week04-RandomShapes" */;
+			buildConfigurationList = AB06C1172B794AB0001E0DDD /* Build configuration list for PBXNativeTarget "RandomShapes" */;
 			buildPhases = (
 				AB06C1052B794AAF001E0DDD /* Sources */,
 				AB06C1062B794AAF001E0DDD /* Frameworks */,
@@ -109,9 +62,12 @@
 			);
 			dependencies = (
 			);
-			name = "Week04-RandomShapes";
+			fileSystemSynchronizedGroups = (
+				AB68546E305A356000CEA712 /* RandomShapes */,
+			);
+			name = RandomShapes;
 			productName = "Week04-RandomShapes";
-			productReference = AB06C1092B794AAF001E0DDD /* Week04-RandomShapes.app */;
+			productReference = AB06C1092B794AAF001E0DDD /* RandomShapes.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -129,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = AB06C1042B794AAF001E0DDD /* Build configuration list for PBXProject "Week04-RandomShapes" */;
+			buildConfigurationList = AB06C1042B794AAF001E0DDD /* Build configuration list for PBXProject "RandomShapes" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -142,7 +98,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AB06C1082B794AAF001E0DDD /* Week04-RandomShapes */,
+				AB06C1082B794AAF001E0DDD /* RandomShapes */,
 			);
 		};
 /* End PBXProject section */
@@ -153,8 +109,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB7C10432CA69D3D00BCC7DB /* README.md in Resources */,
-				AB06C1142B794AB0001E0DDD /* Preview Assets.xcassets in Resources */,
-				AB06C1112B794AB0001E0DDD /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -165,16 +119,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AB06C10F2B794AAF001E0DDD /* MainView.swift in Sources */,
-				AB06C10D2B794AAF001E0DDD /* Week04_RandomShapesApp.swift in Sources */,
-				AB7C10452CA6A01600BCC7DB /* Shape5.swift in Sources */,
-				AB06C1212B794E7D001E0DDD /* renderGraphics.swift in Sources */,
-				AB451B692D5AC57300E2AC64 /* Shape2_Canvas.swift in Sources */,
-				AB06C1232B7974E2001E0DDD /* Graphics.swift in Sources */,
-				AB06C1252B7979D0001E0DDD /* Shape4.swift in Sources */,
-				AB06C11F2B794DCB001E0DDD /* Shape3.swift in Sources */,
-				AB06C11D2B794DA2001E0DDD /* Shape2.swift in Sources */,
-				AB06C11B2B794D85001E0DDD /* Shape1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,7 +251,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Week04-RandomShapes/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"RandomShapes/Preview Content\"";
 				DEVELOPMENT_TEAM = 3RCW2SSL8G;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -336,7 +280,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Week04-RandomShapes/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"RandomShapes/Preview Content\"";
 				DEVELOPMENT_TEAM = 3RCW2SSL8G;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -361,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AB06C1042B794AAF001E0DDD /* Build configuration list for PBXProject "Week04-RandomShapes" */ = {
+		AB06C1042B794AAF001E0DDD /* Build configuration list for PBXProject "RandomShapes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AB06C1152B794AB0001E0DDD /* Debug */,
@@ -370,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AB06C1172B794AB0001E0DDD /* Build configuration list for PBXNativeTarget "Week04-RandomShapes" */ = {
+		AB06C1172B794AB0001E0DDD /* Build configuration list for PBXNativeTarget "RandomShapes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AB06C1182B794AB0001E0DDD /* Debug */,
