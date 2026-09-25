@@ -23,7 +23,7 @@ struct Shape1: View {
         Image(uiImage:
                 renderGraphics(
                   width: Int(geo.size.width),
-                  height: Int(geo.size.height/2)))
+                  height: Int(geo.size.height/3)))
       }
     }
   }
